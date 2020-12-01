@@ -1,0 +1,31 @@
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+		background-color: rgba(255, 255, 255, 0.76) !important;
+		
+}
+.navbar-light .navbar-nav .nav-link {
+    color: lightcoral !important;
+	margin: 0px 15px;
+	font-weight: 500;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	color: rgb(63, 61, 61) !important;
+}
+.navbar-nav {
+    font-size: 25px;
+    margin: 10px 30px;
+}
+.navbar-expand-lg .navbar-collapse {
+    flex-flow: row-reverse;
+}
+
+a.log-text {
+    font-family: serif;
+    color: lightcoral;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 35px;
+}
+a.log-text:hover{
+	text-decoration: none;
+	color: rgb(63, 61, 61);
+}

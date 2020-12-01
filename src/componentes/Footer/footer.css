@@ -1,0 +1,16 @@
+.footer {
+	background-color: rgba(255, 255, 255, 0.904) !important;
+}
+.gmailari {
+    color: rgb(0, 0, 0);
+	font-size: 17px;
+	text-decoration: none;
+}
+.gmailari:hover{
+	text-decoration: none;
+}
+.copyright{
+    color: rgb(0, 0, 0) !important;
+    font-size: 20px;
+    padding: 10px;
+}
